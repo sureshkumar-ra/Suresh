@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.photon.phresco</groupId>
     <artifactId>Build</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <scm>
         <connection>https://github.com/sureshkumar-ra/Suresh.git</connection>
         <developerConnection>scm:git:https://github.com/sureshkumar-ra/Suresh.git</developerConnection>
         <url>scm:git:https://github.com/sureshkumar-ra/Suresh.git</url>
-      <tag>suresh</tag>
+      <tag>HEAD</tag>
   </scm>
     <name>Build</name>
     <packaging>war</packaging>
